@@ -1,2 +1,6 @@
+<<<<<<< HEAD
  #!/bin/bash
+=======
+#!/bin/bash
+>>>>>>> parent of 512d18a... My personal work
 echo "School"
